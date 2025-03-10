@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+pdf_source/*
+pdf_classified/*
+analysis_results/*
+*.pdf
+*.log
+/logs/*
+!pdf_source/.gitkeep
+!pdf_classified/.gitkeep 
+!analysis_results/.gitkeep
