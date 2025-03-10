@@ -10,3 +10,5 @@ analysis_results/*
 !pdf_source/.gitkeep
 !pdf_classified/.gitkeep 
 !analysis_results/.gitkeep
+
+.DS_Store
